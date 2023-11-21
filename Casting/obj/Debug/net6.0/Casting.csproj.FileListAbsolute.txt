@@ -1,0 +1,15 @@
+/home/henrique/Documentos/Csharp/csharp/Casting/bin/Debug/net6.0/Casting
+/home/henrique/Documentos/Csharp/csharp/Casting/bin/Debug/net6.0/Casting.deps.json
+/home/henrique/Documentos/Csharp/csharp/Casting/bin/Debug/net6.0/Casting.runtimeconfig.json
+/home/henrique/Documentos/Csharp/csharp/Casting/bin/Debug/net6.0/Casting.dll
+/home/henrique/Documentos/Csharp/csharp/Casting/bin/Debug/net6.0/ref/Casting.dll
+/home/henrique/Documentos/Csharp/csharp/Casting/bin/Debug/net6.0/Casting.pdb
+/home/henrique/Documentos/Csharp/csharp/Casting/obj/Debug/net6.0/Casting.csproj.AssemblyReference.cache
+/home/henrique/Documentos/Csharp/csharp/Casting/obj/Debug/net6.0/Casting.GeneratedMSBuildEditorConfig.editorconfig
+/home/henrique/Documentos/Csharp/csharp/Casting/obj/Debug/net6.0/Casting.AssemblyInfoInputs.cache
+/home/henrique/Documentos/Csharp/csharp/Casting/obj/Debug/net6.0/Casting.AssemblyInfo.cs
+/home/henrique/Documentos/Csharp/csharp/Casting/obj/Debug/net6.0/Casting.csproj.CoreCompileInputs.cache
+/home/henrique/Documentos/Csharp/csharp/Casting/obj/Debug/net6.0/Casting.dll
+/home/henrique/Documentos/Csharp/csharp/Casting/obj/Debug/net6.0/ref/Casting.dll
+/home/henrique/Documentos/Csharp/csharp/Casting/obj/Debug/net6.0/Casting.pdb
+/home/henrique/Documentos/Csharp/csharp/Casting/obj/Debug/net6.0/Casting.genruntimeconfig.cache
