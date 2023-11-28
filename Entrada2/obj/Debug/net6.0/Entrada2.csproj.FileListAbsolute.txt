@@ -1,0 +1,15 @@
+/home/henrique/Documentos/Csharp/csharp/Entrada2/bin/Debug/net6.0/Entrada2
+/home/henrique/Documentos/Csharp/csharp/Entrada2/bin/Debug/net6.0/Entrada2.deps.json
+/home/henrique/Documentos/Csharp/csharp/Entrada2/bin/Debug/net6.0/Entrada2.runtimeconfig.json
+/home/henrique/Documentos/Csharp/csharp/Entrada2/bin/Debug/net6.0/Entrada2.dll
+/home/henrique/Documentos/Csharp/csharp/Entrada2/bin/Debug/net6.0/ref/Entrada2.dll
+/home/henrique/Documentos/Csharp/csharp/Entrada2/bin/Debug/net6.0/Entrada2.pdb
+/home/henrique/Documentos/Csharp/csharp/Entrada2/obj/Debug/net6.0/Entrada2.csproj.AssemblyReference.cache
+/home/henrique/Documentos/Csharp/csharp/Entrada2/obj/Debug/net6.0/Entrada2.GeneratedMSBuildEditorConfig.editorconfig
+/home/henrique/Documentos/Csharp/csharp/Entrada2/obj/Debug/net6.0/Entrada2.AssemblyInfoInputs.cache
+/home/henrique/Documentos/Csharp/csharp/Entrada2/obj/Debug/net6.0/Entrada2.AssemblyInfo.cs
+/home/henrique/Documentos/Csharp/csharp/Entrada2/obj/Debug/net6.0/Entrada2.csproj.CoreCompileInputs.cache
+/home/henrique/Documentos/Csharp/csharp/Entrada2/obj/Debug/net6.0/Entrada2.dll
+/home/henrique/Documentos/Csharp/csharp/Entrada2/obj/Debug/net6.0/ref/Entrada2.dll
+/home/henrique/Documentos/Csharp/csharp/Entrada2/obj/Debug/net6.0/Entrada2.pdb
+/home/henrique/Documentos/Csharp/csharp/Entrada2/obj/Debug/net6.0/Entrada2.genruntimeconfig.cache
